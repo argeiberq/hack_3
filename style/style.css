@@ -1,0 +1,38 @@
+div{
+    background: #93B5C9;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    height: 70px;
+}
+.div{
+    background: #AB2849;
+    margin-left: -10px;
+    margin-right: -10px;
+    height:100px;
+}
+section{
+    background: #AB2849;
+    height:50px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+article{
+    display: inline-block;
+    background: #AB2849;
+    height: 50px;
+    width: 122px;
+    margin-top: 10px;
+    margin-left: 10%;
+    
+}
+#art{
+    margin-right: 10%;
+    margin-left: 1px;
+}
+.sec{
+    margin-right: -10px;
+    height: 40px;
+    margin-left: -10px;
+}
